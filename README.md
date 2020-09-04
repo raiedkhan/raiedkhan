@@ -1,6 +1,12 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=raiedkhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+- 🔭 I’m currently working on Full Stack Web-Development
+- 🌱 I’m currently learning cloud computing
+- 👯 I’m looking for SDE opportunities
+- 💬 Ask me about Full Stack Web Development
+- ⚡ Fun fact: Nothing Funny,Goodbye;😜😜
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,19 +24,3 @@
 
 <br />
 <br />
-
-
-<!--
-**raiedkhan/raiedkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
