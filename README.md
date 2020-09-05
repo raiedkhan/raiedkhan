@@ -26,7 +26,6 @@
 
 
 ### My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=raiedkhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 <a href="https://github.com/ritesh-sharma33">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiedkhan&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Raied's github stats"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=raiedkhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
