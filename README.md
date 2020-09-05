@@ -25,7 +25,7 @@
 <br />
 
 ### My Stats
-<a href="https://github.com/ritesh-sharma33">
+<a href="https://github.com/raiedkhan">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiedkhan&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Raied's github stats"/></a>
  <br />
  <br />
