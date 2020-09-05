@@ -9,6 +9,13 @@
 ### My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=raiedkhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+### GitHub Stats
+<br />
+<br />
+<a href="https://github.com/ritesh-sharma33">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiedkhan&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Raied's github stats"/></a>
+
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
