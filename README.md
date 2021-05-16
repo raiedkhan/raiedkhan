@@ -1,7 +1,8 @@
 ### Hi there viewer 👋
 
 - 🔭 I’m currently working on Full Stack Web-Development
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning Machine Learning
+- 🤩 Curious to learn about Cloud Technologies
 - 👯 I’m looking for SDE opportunities
 - 💬 Ask me about Full Stack Web Development
 - ⚡ Fun fact: Nothing Funny,Goodbye😜😜
