@@ -1,4 +1,6 @@
-### Hi there viewer 👋
+### Hi there 👋
+
+I'm a software engineer who is passionate about open-source, creating technology to help people, and building community. Some technologies I enjoy working with include AngularJS, NodeJS and Python.
 
 - 🔭 I’m currently working as an Associate Software Engineer at <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>
 - 🌱 I’m currently learning MEAN Stack
