@@ -1,6 +1,6 @@
 ### Hi there viewer 👋
 
-- 🔭 I’m currently working in Accenture 
+- 🔭 I’m currently working as an Associate Software Engineer at <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>
 - 🌱 I’m currently learning MEAN Stack
 - 🤩 Curious to learn about Machine Learning
 - 👯 I’m looking for SDE opportunities
