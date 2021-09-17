@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a software engineer who is passionate about open-source, creating technology to help people, and building community. Some technologies I enjoy working with include AngularJS, NodeJS and Python.
+I'm a software engineer who is passionate about building technology to help people. Some technologies I enjoy working with include AngularJS, NodeJS and Python.
 
 - 🔭 I’m currently working as an Associate Software Engineer at <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>
 - 🌱 I’m currently learning MEAN Stack
@@ -21,7 +21,6 @@ I'm a software engineer who is passionate about open-source, creating technology
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 
 <br />
 <br />
