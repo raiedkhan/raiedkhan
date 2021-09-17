@@ -29,3 +29,5 @@ I'm a software engineer who is passionate about open-source, creating technology
  <a href="https://github.com/raiedkhan">
   <img src="https://github-readme-stats.vercel.app/api?username=raiedkhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=283747">
  </a>
+ 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raiedkhan)
