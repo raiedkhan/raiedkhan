@@ -1,11 +1,10 @@
 ### Hi there viewer 👋
 
-- 🔭 I’m currently working on Full Stack Web-Development
-- 🌱 I’m currently learning Machine Learning
-- 🤩 Curious to learn about Cloud Technologies
+- 🔭 I’m currently working in Accenture 
+- 🌱 I’m currently learning MEAN Stack
+- 🤩 Curious to learn about Machine Learning
 - 👯 I’m looking for SDE opportunities
 - 💬 Ask me about Full Stack Web Development
-- ⚡ Fun fact: Nothing Funny,Goodbye😜😜
 
 ### Languages and Tools:
 
