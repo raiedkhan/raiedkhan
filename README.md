@@ -2,10 +2,9 @@
 
 I'm a software engineer who is passionate about building technology to help people. Some technologies I enjoy working with include AngularJS, NodeJS and Python.
 
-- 🔭 I’m currently working as an Associate Software Engineer at <a href="https://www.accenture.com/in-en" target="_blank">Accenture</a>
-- 🌱 I’m currently learning MEAN Stack
+- 🔭 I’m currently working as an SDE at <a href="https://www.autodesk.in/" target="_blank">Autodesk</a>
+- 🌱 I’m currently learning Full Stack Development
 - 🤩 Curious to learn about Machine Learning
-- 👯 I’m looking for SDE opportunities
 - 💬 Ask me about Full Stack Web Development
 
 ### Languages and Tools:
